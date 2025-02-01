@@ -1,6 +1,6 @@
 Exercise for "Java: Multi-threading and Concurrency Simplified" on Udemy
 
-When we run MainWithErrors we see an output that can look like this:
+When we run Main we see an output that can look like this:
 ```
 ___FaultyTicketReservationSystem___
 pool-1-thread-4 {a=100, b=100}
